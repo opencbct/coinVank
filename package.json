@@ -1,5 +1,5 @@
 {
-  "name": "nft-landing-page",
+  "name": "nftlanding",
   "version": "1.1.0",
   "description": "This repo is a work-in-progress and pairs with the Mint 10k NFT project.",
   "main": "index.html",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codeSTACKr/nft-landing-page.git"
+    "url": "git+https://github.com/opencbct/nftlanding.git"
   },
   "keywords": [],
   "author": "Jesse Hall (codeSTACKr)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/codeSTACKr/nft-landing-page/issues"
+    "url": "https://github.com/opencbct/nftlanding/issues"
   },
-  "homepage": "https://github.com/codeSTACKr/nft-landing-page#readme",
+  "homepage": "https://github.com/opencbct/nftlanding-page#readme",
   "dependencies": {
     "node-fetch": "^2.6.7"
   }
